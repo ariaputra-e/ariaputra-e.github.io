@@ -1,0 +1,54 @@
+body {
+  background: url('images/bg-home.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.t {
+	 background: url('images/tabr.jpg') no-repeat center center fixed;
+	   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.ad {
+	 background: url('images/ps.jpg') no-repeat center center fixed;
+	   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.pdi {
+	 background: url('images/pdi.jpg') no-repeat center center fixed;
+	   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.ui {
+  background: url('images/ui.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+ -moz-background-size: cover;
+ background-size: cover;
+ -o-background-size: cover;
+}
+
+.db {
+	 background: url('images/db.jpg') no-repeat center center fixed;
+	   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.col-lg-8{
+	background-color:#333;
+	color: white;
+	opacity: 0.8;
+	padding: 2em;
+}
