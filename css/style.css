@@ -46,6 +46,14 @@ body {
   -o-background-size: cover;
 }
 
+.ccmbr {
+	 background: url('images/cucumber-report.png') no-repeat center center fixed;
+	   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
 .col-lg-8{
 	background-color:#333;
 	color: white;
